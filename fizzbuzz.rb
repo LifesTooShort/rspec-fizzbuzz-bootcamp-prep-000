@@ -1,6 +1,6 @@
 def fizzbuzz(number)
   result = ""
-  
+
   if number % 3 == 0
     result = result + "Fizz"
   end
