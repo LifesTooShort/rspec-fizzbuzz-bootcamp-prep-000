@@ -6,5 +6,5 @@ def fizzbuzz(number)
   if number % 5 == 0
     result = result + "Buzz"
   end
-  return
+  return result
 end
